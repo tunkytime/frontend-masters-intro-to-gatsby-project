@@ -23,7 +23,7 @@ export default function IndexPage() {
 
   return (
     <Layout>
-      <h1>Hello Frontend Masters!</h1>
+      <h1>Engineer Greatness</h1>
       <Link to="/about">About this site</Link>
 
       <h2>Check out my recent blog posts</h2>
